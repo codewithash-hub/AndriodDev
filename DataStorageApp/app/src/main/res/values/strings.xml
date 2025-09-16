@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">DataStorageApp</string>
+    <string name="text">Text</string>
+    <string name="save_to_database">Save to Database</string>
+    <string name="save_to_sharedPreferences">Save to SharedPreferences</string>
+    <string name="results_witll_appear_here">Results witll appear here</string>
+    <string name="save_to_shared_preferences">Save to Shared Preferences</string>
 </resources>

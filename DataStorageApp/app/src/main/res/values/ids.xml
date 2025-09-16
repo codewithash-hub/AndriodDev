@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="textViewResult" type="id">textViewResult</item>
+<!--    <item name="my_color" type="color">@color/black</item>-->
+<!--    <item name="my_bool" type="bool">true</item>-->
+<!--    <item name="my_string" type="string">@string/app_name</item>-->
+</resources>
